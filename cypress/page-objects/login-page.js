@@ -8,4 +8,9 @@ export class LoginPage {
     loginByCookie(username){
         cy.setCookie('session-username', username)
     }
+
+    checkErrorMessageIs(message){
+        cy.get('[data-test="error"]')
+        .should('have.text',message);
+    }
 }
