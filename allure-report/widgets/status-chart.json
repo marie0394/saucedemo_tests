@@ -1,0 +1,61 @@
+[ {
+  "uid" : "7502ba9698cee03e",
+  "name" : "Add products to cart from product pages",
+  "time" : {
+    "start" : 1657727357989,
+    "stop" : 1657727358773,
+    "duration" : 784
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcfdaf9ff2bb4fca",
+  "name" : "Add products to cart from inventory page",
+  "time" : {
+    "start" : 1657727357375,
+    "stop" : 1657727357982,
+    "duration" : 607
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f893986ccffa4224",
+  "name" : "Products are available in inventory",
+  "time" : {
+    "start" : 1657727356428,
+    "stop" : 1657727357371,
+    "duration" : 943
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75b758fbe9943f0a",
+  "name" : "logins with valid credentials",
+  "time" : {
+    "start" : 1657727352682,
+    "stop" : 1657727354422,
+    "duration" : 1740
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f12b8cd63ab43ff8",
+  "name" : "logins with locked out user credentials",
+  "time" : {
+    "start" : 1657727355533,
+    "stop" : 1657727356420,
+    "duration" : 887
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e23504e80517f6b7",
+  "name" : "logins with invalid credentials",
+  "time" : {
+    "start" : 1657727354435,
+    "stop" : 1657727355526,
+    "duration" : 1091
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
