@@ -1,7 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Jul 13 10:49:17 COT 2022","Wed Jul 13 10:49:18 COT 2022","784","Test cases","Cart","","","","Add products to cart from product pages",""
-"passed","Wed Jul 13 10:49:17 COT 2022","Wed Jul 13 10:49:17 COT 2022","607","Test cases","Cart","","","","Add products to cart from inventory page",""
-"passed","Wed Jul 13 10:49:16 COT 2022","Wed Jul 13 10:49:17 COT 2022","943","Test cases","Inventory","","","","Products are available in inventory",""
-"passed","Wed Jul 13 10:49:12 COT 2022","Wed Jul 13 10:49:14 COT 2022","1740","Test cases","Login","","","","logins with valid credentials",""
-"passed","Wed Jul 13 10:49:15 COT 2022","Wed Jul 13 10:49:16 COT 2022","887","Test cases","Login","","","","logins with locked out user credentials",""
-"passed","Wed Jul 13 10:49:14 COT 2022","Wed Jul 13 10:49:15 COT 2022","1091","Test cases","Login","","","","logins with invalid credentials",""
